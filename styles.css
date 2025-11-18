@@ -35,7 +35,7 @@
     text-overflow: ellipsis;
     overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 2; /*titeln endast får vara 2 rader*/
+    -webkit-line-clamp: 2; /*title limit up to 2 rows*/
     -webkit-box-orient: vertical;
 }
 
